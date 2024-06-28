@@ -1,6 +1,6 @@
 ### Chat with SQL Database
 
-"Chat with SQL Database" is a Streamlit application that allows users to interact with a MySQL database using natural language queries. It uses Large Language Model to convert user questions into SQL queries and provide responses in natural language.
+"SQL ChatBot" is a Streamlit application that allows users to interact with a MySQL database using natural language queries. It uses Large Language Model to convert user questions into SQL queries and provide responses in natural language.
 
 ![](https://github.com/sreedeepEK/SQLChatBot/blob/main/example.png)
 
