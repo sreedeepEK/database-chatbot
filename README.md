@@ -41,6 +41,3 @@ Interacting with the Application:
     The application will convert your questions into SQL queries and display the results.  
 
 
-### License
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
