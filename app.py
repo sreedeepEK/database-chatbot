@@ -115,7 +115,7 @@ st.title("Chat with MySQL Database.")
 # Sidebar
 with st.sidebar:
     st.subheader("Settings")
-    st.write("Connect your MYSQL database and chat with it!")
+    st.write("Connect your MYSQL database here!")
 
     # Connect database
     st.text_input("Hostname", value="localhost", key="Host")
