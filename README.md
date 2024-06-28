@@ -1,6 +1,6 @@
 ## MySQL Python Chatbot with Mistral AI
 
-The chatbot works by taking a user's natural language query, converting it into a SQL query using Mistral-7B-v0.1 model, executing the query on a SQL database, and then presenting the results back to the user in natural language. This process involves several steps of data processing and interaction with the Mistral API and a SQL database, all seamlessly integrated into a Streamlit application.
+The chatbot works by taking a user's natural language query, converting it into a SQL query using Mistral-7B-v0.1 model, executing the query on a SQL database, and then returns the results back to the user in natural language. This process involves several steps of data processing and interaction with the Mistral API and a SQL database, all seamlessly integrated into a Streamlit application.
 
 ![](https://github.com/sreedeepEK/SQLChatBot/blob/main/example.png)
 
