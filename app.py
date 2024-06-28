@@ -121,8 +121,8 @@ with st.sidebar:
     st.text_input("Hostname", value="localhost", key="Host")
     st.text_input("Port", value="3306", key="Port")
     st.text_input("Username", value="root", key="Username")
-    st.text_input("Password", type="password", value="1234",key="Password") 
-    st.text_input("Database", value="chinook", key="Database")
+    st.text_input("Password", type="password",key="Password") 
+    st.text_input("Database", key="Database")
 
     if st.button("Connect"):
         with st.spinner("Connecting to database..."):
