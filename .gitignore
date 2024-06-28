@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Environment Variable
+.env
+
+# Docker
+*.log
+*.pid
+*.bak
+*.swp
+*~
+*#
+.DS_Store
