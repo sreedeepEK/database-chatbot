@@ -1,6 +1,6 @@
 ## MySQL Python Chatbot with Mistral AI
 
-"SQL ChatBot" is a Streamlit application that allows users to interact with a MySQL database using natural language queries. It uses Large Language Model to convert user questions into SQL queries and provide responses in natural language.
+The chatbot works by taking a user's natural language query, converting it into a SQL query using Mistral Model, executing the query on a SQL database, and then presenting the results back to the user in natural language. This process involves several steps of data processing and interaction with the OpenAI API and a SQL database, all seamlessly integrated into a Streamlit application.
 
 ![](https://github.com/sreedeepEK/SQLChatBot/blob/main/example.png)
 
