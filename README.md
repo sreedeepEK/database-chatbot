@@ -3,6 +3,9 @@
 The chatbot works by taking a user's natural language query, converting it into a SQL query using [Mistral-7B-v0.1](https://mistral.ai/) model, executing the query on a SQL database, and then returns the results back to the user in natural language.
 
 
+https://github.com/sreedeepEK/SQLChatBot/assets/145687191/0e8bfa97-960f-46a2-90ab-a9550a669d9c
+
+
 ![](https://github.com/sreedeepEK/SQLChatBot/blob/main/example.png)
 
 #### Installation Steps: 
