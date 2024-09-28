@@ -6,8 +6,6 @@ The chatbot works by taking a user's natural language query, converting it into 
 https://github.com/sreedeepEK/SQLChatBot/assets/145687191/0e8bfa97-960f-46a2-90ab-a9550a669d9c
 
 
-![](https://github.com/sreedeepEK/SQLChatBot/blob/main/example.png)
-
 #### Installation Steps: 
 
  Clone the repository:
